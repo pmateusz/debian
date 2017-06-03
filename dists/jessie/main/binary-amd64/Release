@@ -1,0 +1,5 @@
+Component: main
+Origin: pmateusz.github.io/debian
+Label: pmateusz.github.io/debian
+Architecture: amd64
+Description: Personal repository

@@ -1,0 +1,19 @@
+Origin: pmateusz.github.io/debian
+Label: pmateusz.github.io/debian
+Codename: jessie
+Date: Sat, 03 Jun 2017 20:50:52 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ 0c1a5458255a4db039e2c8ce592b0495 750 main/binary-amd64/Packages
+ 06067da278d61f662c14d0c80f9c377a 500 main/binary-amd64/Packages.gz
+ 0b7abd9bc177de1eda5451416e3d7076 136 main/binary-amd64/Release
+SHA1:
+ 0e7abea6220e06e99023915e77ad8796c41d2fd1 750 main/binary-amd64/Packages
+ a585075f3502b4976e86258721bbc35e8da83547 500 main/binary-amd64/Packages.gz
+ 887d4d0762a8f5e603f8e85b81b496c2b71479d7 136 main/binary-amd64/Release
+SHA256:
+ 1f313b4d6499a3fdef63cdf7c1f9b0bf1860ae55cfb3df254e4e9c88a7ba9b3b 750 main/binary-amd64/Packages
+ c97b18723a8beee5dfe56dcdd61b079de17c838da0e411cc77c258dfdf4f2c6f 500 main/binary-amd64/Packages.gz
+ 7ae5294d2c53311db54f3a8f03c34282a24ff00660bf1be56bb0458e56f47179 136 main/binary-amd64/Release
