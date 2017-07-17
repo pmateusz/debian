@@ -49,9 +49,9 @@ Maintainer: mateusz.polnik at strath.ac.uk
 Priority: optional
 Section: devel
 Filename: pool/main/libo/libortools-dev/libortools-dev_6.2_amd64.deb
-Size: 29972590
-SHA256: 1faa4f2e8ba5dbba1ef1136b9fa9f88a29c184d11ad12b8228fd0aa3ee8deb3a
-SHA1: f25a83f170abdfae1bf254fa0f66fe7e2f277870
-MD5sum: db3fd0f2b00ffc2d535ace02a66a295f
+Size: 29972596
+SHA256: 0f1ff26a52265fe6426261bfeb55c0cd085ca6cb8d94da859854e74c16017733
+SHA1: cc583c3c3426d267054cd1d1f135d669b3fa611a
+MD5sum: 8cc2133e02be707f0219133e50cff126
 Description: Google Optimization Tools
 
