@@ -1,3 +1,45 @@
+Package: libgflags-dev
+Version: 2.1.2
+Architecture: amd64
+Installed-Size: 1293
+Maintainer: mateusz.polnik at strath.ac.uk
+Priority: optional
+Section: devel
+Filename: pool/main/libg/libgflags-dev/libgflags-dev_2.1.2_amd64.deb
+Size: 252488
+SHA256: a51961deef6e7c972d55e55eb2780ddd522fd9cdefa6f5fe2ef01771ec22a0ec
+SHA1: 20371d014c64a8c161d1e00c65e8414f1b60d21a
+MD5sum: 39b24107ebd6a1bdcd1180f5570e55ff
+Description: The gflags package contains a C++ library that implements commandline flags processing.
+
+Package: libglog-dev
+Version: 0.3.4
+Architecture: amd64
+Installed-Size: 463
+Maintainer: mateusz.polnik at strath.ac.uk
+Priority: optional
+Section: devel
+Filename: pool/main/libg/libglog-dev/libglog-dev_0.3.4_amd64.deb
+Size: 117602
+SHA256: 39b718a48dfd2c05e01c9df9e9ac62aaf07be2a9bb5a425a6216795f048af637
+SHA1: d35853fa6d42a8fc1ee5dca1e82da96e0867f447
+MD5sum: f7256cd59ff7eedd5bb7f4786074b498
+Description: C++ implementation of the Google logging module
+
+Package: libgtest-dev
+Version: 1.8.0
+Architecture: amd64
+Installed-Size: 920
+Maintainer: mateusz.polnik at strath.ac.uk
+Priority: optional
+Section: devel
+Filename: pool/main/libg/libgtest-dev/libgtest-dev_1.8.0_amd64.deb
+Size: 158688
+SHA256: 0262a010ccfc34d8640943f629c83068431e66f605439b20b6f05da61862960d
+SHA1: 5fa0bd193f80760a1c8d34fcf39bfa2a364010cb
+MD5sum: 413c5643143bfe703e56b58b5505844b
+Description: Google's C++ test framework
+
 Package: or-tools
 Version: 6.0
 Architecture: amd64
