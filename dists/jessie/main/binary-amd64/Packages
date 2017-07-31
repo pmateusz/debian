@@ -44,14 +44,14 @@ Package: libortools-dev
 Version: 6.2
 Architecture: amd64
 Depends: git (>= 1:1.9.1), bison (>= 2:3.0.2), flex (>= 2.5.35), python-setuptools (>= 3.3), python-dev (>= 2.7.0), autoconf (>= 2.69), libtool (>= 2.4.2), zlib1g-dev (>= 1:1.2.8), texinfo (>= 5.2.0), help2man (>= 1.44.0), gawk (>= 1:4.0), g++ (>= 4:4.8.0), curl (>= 7.35.0), texlive, subversion (>= 1.8.0)
-Installed-Size: 118145
+Installed-Size: 120724
 Maintainer: mateusz.polnik at strath.ac.uk
 Priority: optional
 Section: devel
 Filename: pool/main/libo/libortools-dev/libortools-dev_6.2_amd64.deb
-Size: 29972596
-SHA256: 0f1ff26a52265fe6426261bfeb55c0cd085ca6cb8d94da859854e74c16017733
-SHA1: cc583c3c3426d267054cd1d1f135d669b3fa611a
-MD5sum: 8cc2133e02be707f0219133e50cff126
+Size: 30927770
+SHA256: 8bddaa4dc42d498b4eee401c0df41863310f4f29b4c818c3507e00d3328e2444
+SHA1: a77dbce2d45b4a85b54f96ca3a9771b03b39ab2e
+MD5sum: f8da6535a9b0ea64e336516beafb4018
 Description: Google Optimization Tools
 
